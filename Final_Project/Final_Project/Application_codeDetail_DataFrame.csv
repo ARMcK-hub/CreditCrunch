@@ -1,8 +1,8 @@
 Question_Params,Answer_Style,Answer_Input,OutPut_To_DataFrame,List_Output_Variable
 Amount_of_Loan,Input_Entry,250:18000,[],a
-Checking_Acct_Bal,Drop_Down,0 Balance,0,_
+Checking_Acct_Bal,Drop_Down,0_Balance,0,_
 Checking_Acct_Bal,Drop_Down,Less_than_$200,1,_
-Checking_Acct_Bal,Drop_Down,$200 and Above,2,_
+Checking_Acct_Bal,Drop_Down,$200_and_Above,2,_
 Checking_Acct_Bal,Drop_Down,No_Checking,3,_
 Application_Age,Input_Entry,19:75,[],b
 Loan_Duration,Input_Entry,4:72,[],c
